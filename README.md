@@ -19,5 +19,5 @@
 ```go
 SAS_URL= ""
 MY_BLOB_CONTAINER = ""
-LOCAL_BLOB_PATH = "..."
+LOCAL_BLOB_PATH = ""
 ```
